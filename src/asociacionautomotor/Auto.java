@@ -12,5 +12,9 @@ package asociacionautomotor;
 public class Auto 
 
 {
+
+private String Nombre;
+private String Marca;
+
     
 }
